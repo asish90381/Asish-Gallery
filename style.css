@@ -1,0 +1,66 @@
+.gradient-background {
+    background: linear-gradient(300deg, #bbb014, #0c2402, #6c50b9df);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  .gradient-background2 {
+    background: linear-gradient(300deg, #cacac0, #d0e88a, #d9ec69df);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  .welcome-blog{
+    font-size: 40px;
+    color:#0b0d0b;
+    text-shadow: #dce4d9;
+    font-weight: bolder;
+    padding-bottom: 10px;
+  }
+  #ccfc{
+    height: 100px;
+    width:400px;
+  }
+  .MOM{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    padding-bottom: 20px ;
+  }
+  #section{
+    font-weight: 500;
+  }
+  #section2{
+    font-weight: 500;
+  }
+  #section3{
+    font-weight: 500
+  }
+  #album-list{
+    background-color: #bbb014;
+  }
+  
+  
+  
